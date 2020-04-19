@@ -1,0 +1,1 @@
+Dodanie funkcjonalnosci do pliku branch-1-test
